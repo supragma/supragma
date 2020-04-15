@@ -1,0 +1,1 @@
+# ByLaws for SuPragma
