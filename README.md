@@ -6,7 +6,7 @@ See [wiki documentation](https://github.com/supragma/supragma/wiki).
 Email raj@supragma.com for any questions or comments.
 
 ## Commercial Website
-[supragma.com](https://supragmaa.com) (Coming soon!)
+[supragma.com](https://supragma.com) (Coming soon!)
 
 ## Merch
 [T-Shirt](https://teespring.com/supragma-t-shirt)
