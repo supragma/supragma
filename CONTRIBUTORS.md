@@ -1,7 +1,6 @@
-Navraj Chohan
+By order of contribution:
 
-Tyler Krebs
-
-Alyssa Cole
-
-Virender Sangha
+- Navraj Chohan
+- Tyler Krebs
+- Alyssa Cole
+- Virender Sangha
