@@ -48,8 +48,7 @@ LIMITATION OF LIABILITY………………….……………………….…….
 Limitation of Liability...…………………………………………….………..……2
 
 
-INDEMNIFICATION OF DIRECTORS, OFFICERS, EMPLOYEES AND 	AGENTS 
-................................................................................................................3
+INDEMNIFICATION OF DIRECTORS, OFFICERS, EMPLOYEES AND 	AGENTS .................................3
 
 Indemnification………………………………………………………..…………..3
 
