@@ -84,10 +84,12 @@ The name and address of the Initial Agent of the Corporation for the purpose of 
 ## ISSUE OF SHARES
 
 ### Number of Shares
-The total number of shares which the Corporation is authorized to issue is 10,000,000; out of which shall be issued as Common Stock and shall be issued as Preferred Stock. The Preferred Stock shall be divided into 2 Series – Preferred Stock A and Preferred Stock B. The Articles may be amended by the Initial Director to increase or decrease the number of shares in a class Series. From time to time, the Initial Director shall decide on the dividend payout, pre-emptive right and transfer of shares of both Common and Stock and Preferred Stock.
+The total number of shares which the Corporation is authorized to issue is 10,000,000 Preferred Stock. The Preferred Stock shall be divided into 2 Series – Preferred Stock A and Preferred Stock B. The Articles may be amended by the Initial Director to increase or decrease the number of shares in a Series. All shareholders shall be entitled to dividends and may opt for Dividend Reinvestment Plan instead of encashment of the dividend. From time to time, the Initial Director shall decide on the dividend payout, pre-emptive right and transfer of shares of Preferred Stock.
+
 
 ### Section Preferred Stock A
-The shareholders of Preferred Stock A shall have voting rights in the matters of the Corporation. The Preferred Stock A may also be issued to Employees under Stock Purchase Plan. Upon an employee leaving the company Preferred Stock A becomes Preferred Stock B, removing voting rights.
+The shareholders of Preferred Stock A shall have voting rights in the matters of the Corporation. Every shareholder shall have one vote in a matter, irrespective of the number of shares held by them in the Corporation. The Preferred Stock A may also be issued to Employees under Stock Purchase Plan. Upon an employee leaving the Corporation Preferred Stock A becomes Preferred Stock B.
+
 
 ### Section 5.3	Preferred Stock B
 The Preferred Stock B shall be non-voting and may be redeemable at the discretion of the Initial Director. The Preferred Stock may be issued general investors.
