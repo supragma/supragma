@@ -7,52 +7,53 @@
 
 ## TABLE OF CONTENTS
 
-NAME…………….………………………………………………………………1
+NAME…………….……………………………………………………………………………………………………………1
 
-Name….…………………………………………………………………………..1
-
-
-PURPOSES……………………………………………………………………...1
-
-General Purpose..………………………………………………………………...1
-
-Specific Purpose.………………………………………………………………....1
+Name….…………………………………………………………………………………………………………………..1
 
 
-OFFICES…..……………………………………………………………..............1
+PURPOSES…………………………………………………………………………………………………………...1
 
-Initial Office…….………………………………………………………………....1
+General Purpose..…………………………………………………………………………………...1
 
-Other Offices…..………………………………………………………………….1
-
-
-AGENT……....………………………………………………………………...…1
-
-Initial Agent…………………………………………………………………….....1
+Specific Purpose.………………………………………………………………………………....1
 
 
-ISSUE OF SHARES.………………………………………………………….…2
+OFFICES…..………………………………………………………………………..............1
 
-Number of Shares ……………………………………………………………......2
+Initial Office…….………………………………………………………………………………....1
 
-Section Preferred Stock ……………………………………………………………………2
+Other Offices…..………………………………………………………………………………………….1
 
+
+AGENT……....………………………………………………………………………………………………...…1
+
+Initial Agent……………………………………………………………………………………….....1
+
+
+ISSUE OF SHARES.……………………………………………………………………………………….…2
+
+Number of Shares …………………………………………………………………………......2
+
+Section Preferred Stock A …………………………………………………………………2
+
+Preferred Stock B…………………………………………………………………………………………2
 
 INCORPORATOR AND INITIAL DIRECTOR …..………………..………...2
 
-Incorporator and Initial Director ……………………...………………….…….…2
+Incorporator and Initial Director ……………………..…….…….…2
 
 
-LIMITATION OF LIABILITY………………….……………………….……..2
+LIMITATION OF LIABILITY………………….……………………….…….……………….2
 
 Limitation of Liability...…………………………………………….………..……2
 
 
-INDEMNIFICATION OF DIRECTORS, OFFICERS, EMPLOYEES AND 	AGENTS .................................3
+INDEMNIFICATION OF DIRECTORS, OFFICERS, EMPLOYEES AND 	AGENTS ....3
 
-Indemnification………………………………………………………..…………..3
+Indemnification………………………………………………………..……………………………..3
 
-Section Indemnification of Agents ...……………………………………………………...3
+Section Indemnification of Agents ...……………………………...3
 
 ## NAME 
 
@@ -83,10 +84,13 @@ The name and address of the Initial Agent of the Corporation for the purpose of 
 ## ISSUE OF SHARES
 
 ### Number of Shares
-The Corporation is authorized to issue two classes of shares of stock –  Common Stock and Preferred Stock. The total number of shares which the Corporation is authorized to issue is 10,000,000; out of which 10,000,000 shall be issued as Preferred Stock. The Articles may be amended by the Initial Director to increase or decrease the number of shares in a class. From time to time, the Initial Director shall decide on the dividend payout, pre-emptive right and transfer of shares of Preferred Stock.
+The total number of shares which the Corporation is authorized to issue is 10,000,000; out of which shall be issued as Common Stock and shall be issued as Preferred Stock. The Preferred Stock shall be divided into 2 Series – Preferred Stock A and Preferred Stock B. The Articles may be amended by the Initial Director to increase or decrease the number of shares in a class Series. From time to time, the Initial Director shall decide on the dividend payout, pre-emptive right and transfer of shares of both Common and Stock and Preferred Stock.
 
-### Section Preferred Stock
-The Preferred Stock shall be non-voting and may be redeemable at the discretion of the Initial Director. The Preferred Stock may also be issued to Employees under Stock Purchase Plan. Only employees shall have voting rights.
+### Section Preferred Stock A
+The shareholders of Preferred Stock A shall have voting rights in the matters of the Corporation. The Preferred Stock A may also be issued to Employees under Stock Purchase Plan. Upon an employee leaving the company Preferred Stock A becomes Preferred Stock B, removing voting rights.
+
+### Section 5.3	Preferred Stock B
+The Preferred Stock B shall be non-voting and may be redeemable at the discretion of the Initial Director. The Preferred Stock may be issued general investors.
 
 ## INCORPORATOR AND INITIAL DIRECTOR
 
