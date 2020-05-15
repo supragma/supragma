@@ -3,13 +3,23 @@
 - This will prompt you to install XCode
 - Install XCode
 - Verify gcc was installed by running ```gcc```
-- Install git (google it)
+- Install git (search for it online)
 - Run ```git clone https://github.com/supragma/supragma.git```
-- Run ```    git config --global user.name "Your Name"
-    git config --global user.email you@example.com```
-
-- Run ```git config --global --edit```
-- Follow the instuctions and add your name and github username
-
+- Run inserting your username and email:
+```
+  git config --global user.name "Your Name"
+  git config --global user.email you@example.com
+```
+- Set up an ssh key with github (search for it online)
 
 You're done.
+
+# Main git commands
+You can run ```man git``` to learn about git.
+Some commands you should know by heart:
+- git clone
+- git diff
+- git checkout
+- git push
+- git stash
+- git status
