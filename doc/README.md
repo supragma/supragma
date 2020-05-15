@@ -1,8 +1,8 @@
 # Installation for OSX Development
 TODO(raj): Write a script to do all this
 
-- Install gcc on your Mac via running ```gcc``` on the terminal
-- This will prompt you to install XCode
+- Check if gcc is installed on your Mac via running ```gcc``` on the terminal
+- If it is not then this will prompt you to install XCode
 - Install XCode
 - Verify gcc was installed by running ```gcc```
 - Install git (search for it online)
