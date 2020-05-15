@@ -1,10 +1,10 @@
-# Uage:
-# make	 	# compile all
-# make clean	# remote ALL binaries and objects
+# Usage:
+# make          # compile all
+# make clean    # remote ALL binaries and objects
 
 # This is an example comment.
 
-# Defind compile to be used.  
+# Defined compile to be used.  
 CC=gcc
 
 # Name of final binary.
