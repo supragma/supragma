@@ -1,4 +1,6 @@
 # Installation for OSX Development
+TODO(raj): Write a script to do all this
+
 - Install gcc on your Mac via running ```gcc``` on the terminal
 - This will prompt you to install XCode
 - Install XCode
@@ -11,6 +13,8 @@
   git config --global user.email nlake44@gmail.com
 ```
 - Set up an ssh key with github (search for it online)
+- Change your git to use ssh using the following command:
+``` git remote set-url origin git@github.com:supragma/supragma.git ```
 
 You're done.
 
