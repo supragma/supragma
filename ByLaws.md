@@ -1,12 +1,8 @@
 
-# Bylaws 
-# of 
-# SuPragma Inc.
-
+# Bylaws of SuPragma Inc.
 ## A General Stock Corporation in the State of California
 
-
-## TABLE OF CONTENTS
+       ## TABLE OF CONTENTS ##
 
 NAME ………………..…………………………………………………………………………….1
 Name ………….…………………………………………………………………………………….1
@@ -227,9 +223,9 @@ Any officer may be removed, with or without cause by the Board. In case any of t
 ### Section 7.4	Resignation of Officers
 Any Officer may resign at any time by giving written notice to the Corporation.  Any resignation shall take effect at the date of the receipt of that notice or at any later time specified in that notice.
 
-### Section 7.5	Responsibilities of Officers
+### Section 7.5 Responsibilities of Officers
 
-### 7.5.1	Chief Executive Officer
+### 7.5.1  Chief Executive Officer
 The Chief Executive Officer shall exercise and perform such powers and duties as may from time to time be assigned to him by the Board.
 
 ### 7.5.2	President
@@ -430,36 +426,9 @@ Certificate of Secretary
 
 I, the undersigned, certify that I am the presently elected and acting Secretary of the SuPragma Inc. a California General Stock Corporation, and the above Bylaws are the Bylaws of this Corporation as adopted by the Incorporator and Initial Director on _______, 2020. 
 
-Date: ________
+Date: ________________________
 
-Secretary: ______________________________
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
-
-	 PAGE   \* MERGEFORMAT 14
-
+Secretary: ____________________________
 
 It is mandatory to have a Secretary. I included Tryronne as Secretary. You may appoint any other person. 
 This shall be the date on which the Articles are certified by the Secretary of State.
@@ -467,3 +436,4 @@ This date has to be after the date of certification of Articles by the Secretary
 Secretary has to sign here.
 
 
+ PAGE   \* MERGEFORMAT 14
