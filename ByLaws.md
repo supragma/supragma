@@ -2,7 +2,7 @@
 # Bylaws of SuPragma Inc.
 ## A General Stock Corporation in the State of California
 
-## TABLE OF CONTENTS
+       ## TABLE OF CONTENTS ##
 
 NAME ………………..…………………………………………………………………………….1
 Name ………….…………………………………………………………………………………….1
