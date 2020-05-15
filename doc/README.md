@@ -5,10 +5,10 @@
 - Verify gcc was installed by running ```gcc```
 - Install git (search for it online)
 - Run ```git clone https://github.com/supragma/supragma.git```
-- Run inserting your username and email:
+- Run inserting your username and email (instead of Raj's):
 ```
-  git config --global user.name "Your Name"
-  git config --global user.email you@example.com
+  git config --global user.name "Navraj Chohan"
+  git config --global user.email nlake44@gmail.com
 ```
 - Set up an ssh key with github (search for it online)
 
