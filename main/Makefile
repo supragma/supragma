@@ -6,7 +6,7 @@
 CC=gcc
 
 # Name of final binary.
-TARGET=supragma
+TARGET=supragma.out
 
 # Remove binary.
 RM=rm
