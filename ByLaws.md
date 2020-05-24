@@ -3,92 +3,156 @@
 ## A General Stock Corporation in the State of California
 
        ## TABLE OF CONTENTS ##
-
+       
+ ARICLE 1                           
+ 
 NAME ………………..…………………………………………………………………………….1
-Name ………….…………………………………………………………………………………….1
+
+Section 1.1 Name ………….…………………………………………………………………………………….1
 
 OFFICES………………………………………………………………………………………...1
-	Principal Office……………………………………………..1
-Other Offices…………………………………………………………………………..1
+
+Section 2.1  Principal Office……………………………………………..1
+	
+Section 2.2 Other Offices…………………………………………………………………………..1
+	
+ARTICLE  3
 
 PURPOSES……………………………………………………………………………......1
-General Purposes……………………………………………………………....1
-Specific Purpose…………………………………………………………………….1
+
+Section 3.1 General Purposes……………………………………………………………1
+
+Section 3.2 Specific Purpose…………………………………………………………………….1
+
+ARTICLE  4
 
 SHAREHOLDING…………………………………………………………………………….1-3
-Authorized Number of Shares…………………………………………1
-Preferred Stock A……………………………………………………………………1
-Preferred Stock B………………………………………………………………….2
-Payment for Shares……………………………………………………………….2
-Vesting of Shares………………………………………………………………….2
-Dividend………………………………………………………………………………………..2
+
+Section 4.1 Authorized Number of Shares…………………………………………1
+
+Section 4.2 Preferred Stock A……………………………………………………………………1
+
+Section 4.3 Preferred Stock B………………………………………………………………….2
+
+Section 4.4 Payment for Shares……………………………………………………………….2
+
+Section 4.5 Vesting of Shares………………………………………………………………….2
+
+Section 4.6  Dividend………………………………………………………………………………………..2
+
 Section 4.7	Pre-emptive Right & Right of First Refusal………………………………………………………2
 Section 4.8	Redemption of Shares……………….3
+
 Section 4.9	Transfer of Shares………………………3
+
 Section 4.10	Share Certificates…………………….3
 
+ATRICLE	5
+
 MEMBERS……..………………………………………………………………………………..4
-Members….……………………………………………………………………………………….4
 
-BOARD OF DIRECTORS………………………………………………………………4-5
-General Corporate Powers……………………………………………….4
-Specific Powers……………………………………………………………………….4
-Authorized Number ……………………………………………………………….4
-Election, Designation, and Term of Office….4
-Events Causing Vacancy…………………………………………………….5
-Resignation………………………………………………………………………………….5
-Filling Vacancies………………………………………………………………….5
+Section 5.1 Members….……………………………………………………………………………………….4
 
-OFFICERS…………………………..…………………………………………………………5-8
-	Officers ………………………………………………………………….5
-Election of Additional Officers………………………………6
-Removal of Officers…………………………………………………………….6
-Resignation of Officers………………………………………………….6
-Responsibilities of Officers…………………………………….6
-7.5.1            Chief Executive Officer………6
-         7.5.2            President………………….6
-         7.5.3            Chief Financial Officer / Treasurer……….………………….......6
-                 7.5.3(a) Books of Account…6
-                 7.5.3(b) Financial Reports…………………………………………………………………………..………………7
-                 7.5.3(c) Deposit and Disbursement of Money and Valuables….....7
+ARTICLE 6 BOARD OF DIRECTORS………………………………………………………………4-5
 
-7.5.4	Chief Operating Officer………………………………7            
+Section 6.1 General Corporate Powers……………………………………………….4
+
+Section 6,2 Specific Powers……………………………………………………………………….4
+
+Section 6.3 Authorized Number ……………………………………………………………….4
+
+Section 6.4 Election, Designation, and Term of Office….4
+
+Section 6.5 Events Causing Vacancy…………………………………………………….5
+
+Section 6.7 Resignation………………………………………………………………………………….5
+
+Section 6.8 Filling Vacancies………………………………………………………………….5
+
+ARTICLE 7 OFFICERS…………………………..…………………………………………………………5-8
+
+Section 7.1 Officers ………………………………………………………………….5
+
+Section 7.2 Election of Additional Officers………………………………6
+
+Section 7.3 Removal of Officers…………………………………………………………….6
+
+Section 7.4 Resignation of Officers………………………………………………….6
+
+Section 7.5 Responsibilities of Officers…………………………………….6
+
+         7.5.1           President………………….6
+	 
+         7.5.2           Chief Financial Officer / Treasurer……….………………….......6
+	 
+                 7.5.2(a) Books of Account…6
+		 
+                 7.5.2(b) Financial Reports…………………………………………………………………………..………………7
+		 
+                 7.5.2(c) Deposit and Disbursement of Money and Valuables….....7
+7,5.3	Chief Project Officer..............7	 
+
+7.5.4	Chief Operating Officer………………………………7
+
 7.5.5	Secretary……..…………………………………………………………7
+
                         7.5.5 (a) Articles & Bylaws…………………………………………………………………………7
-                        7.5.5 (b) Minute Book……………………………………………..…..............7
-                        7.5.5 (c) Notices…………………………………………………………………………..……………...7
-                        7.5.5 (d) Records…………………………………………………………………………….……………...8
-                        7.5.5 (e) Seal and other Duties……………………………………….………………..8
- 
-Compensation to Officers…………………………………………………8
-
-FISCAL YEAR……………………………………………………………………….…...8
-Fiscal Year…………………………………………………………………………….……8
 			
-MEETINGS………………………………………………...…………………………………8-11
-Applicability.……………………………………………………………………………8
-Annual Meeting of Members………………………………………………8
-Special Meetings of Members…………………………………………9
-Regular Meetings……………………………………………………………...…10
-Special Meetings………………………………………………………………………10
-Notice of Meetings…………………………………………………………………10
-Manner of Giving………………………………………………………………….…10
-Time Requirements……………………………………………………………….…11
+                        7.5.5 (b) Minute Book……………………………………………..…..............7
+			
+                        7.5.5 (c) Notices…………………………………………………………………………..……………...7
+			
+                        7.5.5 (d) Records…………………………………………………………………………….……………...8
+			
+                        7.5.5 (e) Seal and other Duties……………………………………….………………..8
+			
+Section 7.6			Compensation to Officers…………………………………………………8
+
+ARTICLE  8  FISCAL YEAR……………………………………………………………………….…...8
+
+Section 8.1 Fiscal Year…………………………………………………………………………….……8
+
+ARTICLE 9 MEETINGS………………………………………………...…………………………………8-11
+
+Section 9.1 Applicability.……………………………………………………………………………8
+
+Section 9.2 Annual Meeting of Members………………………………………………8
+
+Section 9.3 Special Meetings of Members…………………………………………9
+
+Section 9.4 Regular Meetings……………………………………………………………...…10
+
+Section 9.5 Special Meetings………………………………………………………………………10
+
+Section 9.6 Notice of Meetings…………………………………………………………………10
+
+        9.6.1 Manner of Giving………………………………………………………………….…10
+
+        9.6.2 Time Requirements……………………………………………………………….…11
+	
 	9.5.3       	Notice Contents…………11
-9.5.4            Meetings by Telephone or Similar Communication Equipment……………….11
-Quorum for Meetings………………………………………………………………11
-Action without Meeting………………………………………………………11
-Majority Vote / Quorum Vote…………………………………………11
+	
+        9.5.4   Meetings by Telephone or Similar CommunicationEquipment……………….11
+	
+Section 9.7	Quorum for Meetings………………………………………………………………11
 
-LIABITY OF DIRECTORS AND OFFICERS…………………………11
-Liability…………………………………………………………………………………………11
+Section 9.8  Action without Meeting………………………………………………………11
 
-INDEMNIFICATION OF OFFICERS, EMPLOYEES AND AGENTS……………………………………………………………………..…...12
+Section 9.9 Majority Vote / Quorum Vote…………………………………………11
+
+ARTICLE 10  LIABITY OF DIRECTORS AND OFFICERS…………………………11
+
+Section 10.1 Liability…………………………………………………………………………………………11
+
+ARTICLE 11 INDEMNIFICATION OF OFFICERS, EMPLOYEES ANDAGENTS………………………………………………12
+
 Section 11.1        Indemnification……………………12
+
 Section 11.2       Indemnification of Agents…………………………………………………………………………………………………12
 
-RECORDS, REPORTS AND SEAL………………………………………………12-13 
-Minute Book……………………………………………………………………………………12
+ARTICLE 12 RECORDS, REPORTS AND SEAL………………………………………………12-13 
+
+Section 12.1        Minute Book……………………………………………………………………………………12
 Section 12.2        Books and Records of Account………………………………………………………….…………………...12
 Section 12.3        Articles of Incorporation & Bylaws………………………………...………..………....12
 Section 12.4        Annual Report and Statement of Certain Transactions………………....12
@@ -430,10 +494,3 @@ Date: ________________________
 
 Secretary: ____________________________
 
-It is mandatory to have a Secretary. I included Tryronne as Secretary. You may appoint any other person. 
-This shall be the date on which the Articles are certified by the Secretary of State.
-This date has to be after the date of certification of Articles by the Secretary of State
-Secretary has to sign here.
-
-
- PAGE   \* MERGEFORMAT 14
