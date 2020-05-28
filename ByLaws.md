@@ -190,7 +190,7 @@ CERTIFICATE OF SECRETARY………………………………………………�
 ### Section 1.1	Name 
 The name of this Corporation is SuPragma Inc. (the “Corporation”). 
 
-## ARTICLE 1  OFFICES
+## ARTICLE 2  OFFICES
 
 ### Section 2.1	Principal Office
 The principal office of the Corporation is located at 903 State St., Suite 201, Santa Barbara, California 93101 or at such place as the Initial Director may from time to time determine, or as the activities of the Corporation may require.
@@ -198,7 +198,7 @@ The principal office of the Corporation is located at 903 State St., Suite 201, 
 ### Section 2.2	Other Offices
 The Initial Director may at any time establish branch or subordinate offices at any place or places as may be required for carrying out the activities of the Corporation.
 
-## ARTICLE 2  PURPOSES
+## ARTICLE 3  PURPOSES
 
 ### Section 3.1	General Purpose
 The purpose of the Corporation is to engage in any lawful act or activity for which a corporation may be organized under the General Corporation Law of California other than the banking business, the trust company business or the practice of a profession permitted to be incorporated by the California Corporations Code.
@@ -206,7 +206,7 @@ The purpose of the Corporation is to engage in any lawful act or activity for wh
 ### Section 3.2	Specific Purpose
 The specific purpose of the Corporation shall be those stated in the Articles of Incorporation and any amendment thereof. 
 
-## ARTICLE 3  SHAREHOLDING
+## ARTICLE 4  SHAREHOLDING
 
 ### Section 4.1	Authorized Number of Shares
 Corporation’s authorized number of shares shall be as stated in the Articles of Incorporation and any amendment thereof. Corporation has been authorized to issue Preferred Stock divided into 2 Series – Preferred Stock A and Preferred Stock B. 
@@ -238,12 +238,12 @@ Any intended transfer of fully vested shares by any existing shareholder will ne
 ### Section 4.10	Share Certificates
 Each certificate for shares of the Corporation shall set forth therein the name of the record holder of the shares represented thereby, the number of shares and the class or series of shares owned by said holder, the par value of the shares represented thereby, and such other statements, as applicable and as prescribed by the provisions of the General Corporation Law of the State of California. Each such certificate issued shall be signed in the name of the Corporation by the President, by Treasurer and by the Secretary. Any or all of the signatures on the certificate may be facsimile. In case any officer who has signed or whose facsimile signature has been placed upon a certificate has ceased to be such officer before such certificate is issued, it may be issued by the Corporation with the same effect as if such person were an officer, at the date of issue. In the event that the Corporation shall issue the whole or any part of its shares as partly paid and subject to call for the remainder of the consideration to be paid therefor, any such certificate for shares shall set forth thereon the statements prescribed by provisions of the General Corporation Law of the State of California.
 
-## ARTICLE 4  MEMBERS
+## ARTICLE 5  MEMBERS
 
 ### Section 5.1	Members
 The Initial Member of the Corporation is Mr. Navraj Singh Chohan, aged 36 years, with address at 11301 Paso Robles, Granada Hills, California 91344. The Initial Member shall assign the status of membership to selected shareholders at his sole discretion. All shareholders of Preferred Stock A and Preferred Stock B shall not be assigned the status of membership upon subscription of shares. 
 
-## ARTICLE 5  BOARD OF DIRECTORS
+## ARTICLE 6  BOARD OF DIRECTORS
 
 ### Section 6.1	General Corporate Powers 
 Subject to the provisions and limitations of the California General Corporation Law and any other applicable law, and subject to any limitations in the Articles of Incorporation or Bylaws, the Corporation’s activities and affairs shall be managed, and all corporate powers shall be exercised, by or under the direction of the Board with the assistance of the Officers of the Corporation.
@@ -278,7 +278,7 @@ Any Director may resign by giving written notice to the President of the Board. 
 ### Section 6.7	Filling Vacancies 
 Vacancies on the Board may be filled by the Members either in the annual meeting or by holding a special meeting.
  	
-## ARTICLE 6  OFFICERS
+## ARTICLE 7  OFFICERS
 
 ### Section 7.1	Officers
 The Officers of the Corporation shall consist of Chief Executive Officer, President, Chief Financial Officer / Treasurer, Chief Operating Officer and Secretary. 
@@ -334,12 +334,12 @@ The Secretary shall keep or cause to be kept the seal of the Corporation, if any
 ### Section 7.6	Compensation to Officers
 Compensation to Officers for the services rendered by them shall be fixed from time to time by the Board. Further, the Officers may be reimbursed for expenses incurred in the performance of their duties. 
 
-## ARTICLE 7  FISCAL YEAR
+## ARTICLE 8  FISCAL YEAR
 
 ### Section 8.1
 The fiscal year of the Corporation shall be January 1 through December 31 of each year. The first year shall commence on _________ and end on December 31, 2020.
 
-## ARTICLE 8  MEETINGS
+## ARTICLE 9  MEETINGS
 
 ### Section 9.1	Applicability
 This Article that is, from section 9.2 to section 9.9 shall be applicable only if there are 2 or more Members or 2 or more Directors in the Corporation. Presently, there is only one Member and one director and decisions of the sole Member cum director shall be binding. The decisions shall be recorded in minute book by the Secretary. The sole Member cum director shall form the majority vote / quorum vote for deciding on the matters of the Corporation including the matters detailed in the Articles of Incorporation and Bylaws. 
@@ -421,12 +421,12 @@ Any action required or permitted to be taken by the Board may be taken without a
 ### Section 9.9	Majority Vote / Quorum Vote
 Similar Opinions of two (2) Directors shall form a majority or quorum on any matter of the Corporation including those stated in the Articles of Incorporation and in the Bylaws that require a majority vote.
 
-## ARTICLE 9  LIABILITY OF DIRECTORS AND OFFICERS
+## ARTICLE 10  LIABILITY OF DIRECTORS AND OFFICERS
 
 ### Section 10.1	Liability
 The Directors and Officers shall not be personally liable for the debts, liabilities, or other obligations of the Corporation except for the debts or liabilities arising from the intentional acts and wilful misconduct of the Director(s) or Officer(s) and as stated in the provisions of the General Corporation Law of the State of California. The liability of the Directors of this Corporation for monetary damages shall be eliminated to the fullest extent permissible under California law.
 
-## ARTICLE 10  INDEMNIFICATION OF EXECUTIVE BOARD, OFFICERS, EMPLOYEES AND AGENTS
+## ARTICLE 11  INDEMNIFICATION OF EXECUTIVE BOARD, OFFICERS, EMPLOYEES AND AGENTS
 
 ### Section 11.1	Indemnification
 The Corporation shall indemnify its Board, Officers and employees in case of claims occurring from performance of their obligations under the authority of the Corporation subject to the authority and corresponding actions being directly related. Indemnity shall also include expenses reasonably incurred in connection with such claim.
@@ -434,7 +434,7 @@ The Corporation shall indemnify its Board, Officers and employees in case of cla
 ### Section 11.2	Indemnification of Agents
 The Corporation is authorized to provide indemnification of agents (as defined in Section 317 of the California Corporations Code) through bylaw provisions, agreements with the agents, vote of shareholders, in excess of the indemnification otherwise permitted by Section 317 of the California Corporations Code, subject only to applicable limits set forth in Section 204 of the California Corporations Code with respect to actions for breach of duty to the Corporation and its shareholders.
 
-## ARTICLE 11  RECORDS, REPORTS AND SEAL
+## ARTICLE 12  RECORDS, REPORTS AND SEAL
 
 ### Section 12.1	Minute Book
 The Corporation shall keep a minute book in written form which shall contain a record of all actions / decisions by the Members and the Board. 
@@ -462,7 +462,7 @@ Every Member and Director shall have the right at any reasonable time to inspect
 ### Section 12.6	Seal
 The seal, if any, shall be in such form as may be approved from time to time by the Members.  
 
-## ARTICLE 12  EXECUTION OF INSTRUMENTS, DEPOSITS AND FUNDS
+## ARTICLE 13  EXECUTION OF INSTRUMENTS, DEPOSITS AND FUNDS
 
 ### Section 13.1	Execution of Instruments
 The Board may authorize any Director or Officer to execute and deliver any instrument in the name of and on behalf of the Corporation, and such authority may be general or confined to specific instances. Unless so authorized, no Director, Officer, agent, or employee shall have any power or authority to bind the Corporation by any engagement or to pledge its credit or to render it liable monetarily for any purpose or in any amount.
@@ -475,12 +475,12 @@ All funds of the Corporation shall be deposited from time to time to the credit 
 
 
 
-## ARTICLE 13 AMENDMENTS
+## ARTICLE 14 AMENDMENTS
 
 ### Section 14.1	Amendment of Articles and Bylaws
 The Articles of Incorporation and Bylaws may be amended by the Initial Director alone if he is the sole Member. If there are more than one Member, then the amendment has to be approved by a Majority Vote of the Members. The Board may adopt the Articles of Incorporation and Bylaws.
 
-## ARTICLE 14  INSURANCE
+## ARTICLE 15  INSURANCE
  
 ### Section 15.1	Insurance 
 The Corporation shall have the right to purchase and maintain insurance to the full extent permitted by law on behalf of its Directors, Officers, employees, and other agents, against any liability asserted against or incurred by any Director, Officer, employee, or agent in such capacity or arising out of the Director’s, Officer’s, employee’s, or agent’s status as such.
