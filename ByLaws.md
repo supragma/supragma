@@ -4,63 +4,63 @@
 
        ## TABLE OF CONTENTS ##
        
- ARICLE 1                           
+ ARTICLE 1                           
  
-NAME ………………..…………………………………………………………………………….1
+NAME …………………………………………………..........…………1
 
-Section 1.1 Name ………….…………………………………………………………………………………….1
+Section 1.1 Name .………………………………………………………1
 
-OFFICES………………………………………………………………………………………...1
+OFFICES……………………………………………………………………………………1
 
-Section 2.1  Principal Office……………………………………………..1
+Section 2.1  Principal Office……………………………1
 	
-Section 2.2 Other Offices…………………………………………………………………………..1
+Section 2.2 Other Offices…………………………………………1
 	
 ARTICLE  3
 
-PURPOSES……………………………………………………………………………......1
+PURPOSES………………………………………………………………………….....1
 
-Section 3.1 General Purposes……………………………………………………………1
+Section 3.1 General Purposes……………………………………1
 
-Section 3.2 Specific Purpose…………………………………………………………………….1
+Section 3.2 Specific Purpose………………………………………1
 
 ARTICLE  4
 
 SHAREHOLDING…………………………………………………………………………….1-3
 
-Section 4.1 Authorized Number of Shares…………………………………………1
+Section 4.1 Authorized Number of Shares……………1
 
-Section 4.2 Preferred Stock A……………………………………………………………………1
+Section 4.2 Preferred Stock A………………………………………1
 
-Section 4.3 Preferred Stock B………………………………………………………………….2
+Section 4.3 Preferred Stock B……………………………………….2
 
-Section 4.4 Payment for Shares……………………………………………………………….2
+Section 4.4 Payment for Shares……………………………………….2
 
-Section 4.5 Vesting of Shares………………………………………………………………….2
+Section 4.5 Vesting of Shares………………………………………….2
 
-Section 4.6  Dividend………………………………………………………………………………………..2
+Section 4.6  Dividend……………………………………………………………..2
 
-Section 4.7	Pre-emptive Right & Right of First Refusal………………………………………………………2
+Section 4.7 Pre-emptive Right & Right of First Refusal……………2
 
-Section 4.8	Redemption of Shares……………….3
+Section 4.8	Redemption of Shares………………....3
 
-Section 4.9	Transfer of Shares………………………3
+Section 4.9	Transfer of Shares…………………...……3
 
-Section 4.10	Share Certificates…………………….3
+Section 4.10	Share Certificates………………...…….3
 
 ATRICLE	5
 
-MEMBERS……..………………………………………………………………………………..4
+MEMBERS……..……………………………………………………………...…………………..4
 
-Section 5.1 Members….……………………………………………………………………………………….4
+Section 5.1 Members….………………………………………………………………….4
 
-ARTICLE 6 BOARD OF DIRECTORS………………………………………………………………4-5
+ARTICLE 6 BOARD OF DIRECTORS…………………………………………………4-5
 
-Section 6.1 General Corporate Powers……………………………………………….4
+Section 6.1 General Corporate Powers…………………………….4
 
-Section 6,2 Specific Powers……………………………………………………………………….4
+Section 6.2 Specific Powers……………………………………………………….4
 
-Section 6.3 Authorized Number ……………………………………………………………….4
+Section 6.3 Authorized Number ………………………………………………….4
 
 Section 6.4 Election, Designation, and Term of Office….4
 
@@ -72,7 +72,7 @@ Section 6.8 Filling Vacancies……………………………………………
 
 ARTICLE 7 OFFICERS…………………………..…………………………………………………………5-8
 
-Section 7.1 Officers ………………………………………………………………….5
+Section 7.1 Officers …………………………………………………………….......…….5
 
 Section 7.2 Election of Additional Officers………………………………6
 
@@ -82,115 +82,116 @@ Section 7.4 Resignation of Officers………………………………………
 
 Section 7.5 Responsibilities of Officers…………………………………….6
 
-         7.5.1           President………………….6
+         7.5.1           President…………………..............6
 	 
          7.5.2           Chief Financial Officer / Treasurer……….………………….......6
 	 
-                 7.5.2(a) Books of Account…6
+                 7.5.2(a) Books of Account..............…6
 		 
-                 7.5.2(b) Financial Reports…………………………………………………………………………..………………7
+                 7.5.2(b) Financial Reports……………………………………7
 		 
                  7.5.2(c) Deposit and Disbursement of Money and Valuables….....7
-7,5.3	Chief Project Officer..............7	 
+		 
+7,5.3	Chief Project Officer............................7	 
 
-7.5.4	Chief Operating Officer………………………………7
+7.5.4	Chief Operating Officer……………………………..............…7
 
-7.5.5	Secretary……..…………………………………………………………7
+7.5.5	Secretary……..…………………………………………………...............………7
 
-                        7.5.5 (a) Articles & Bylaws…………………………………………………………………………7
+                        7.5.5 (a) Articles & Bylaws……………………7
 			
-                        7.5.5 (b) Minute Book……………………………………………..…..............7
+                        7.5.5 (b) Minute Book…………………………………….7
 			
-                        7.5.5 (c) Notices…………………………………………………………………………..……………...7
+                        7.5.5 (c) Notices……………………………………………….7
 			
-                        7.5.5 (d) Records…………………………………………………………………………….……………...8
+                        7.5.5 (d) Records…………………………………………………8
 			
-                        7.5.5 (e) Seal and other Duties……………………………………….………………..8
+                        7.5.5 (e) Seal and other Duties……………8
 			
-Section 7.6			Compensation to Officers…………………………………………………8
+Section 7.6			Compensation to Officers…………8
 
-ARTICLE  8  FISCAL YEAR……………………………………………………………………….…...8
+ARTICLE  8  FISCAL YEAR……………………………………………………………………….…........8
 
-Section 8.1 Fiscal Year…………………………………………………………………………….……8
+Section 8.1 Fiscal Year…………………………………………………………………………….…….....8
 
-ARTICLE 9 MEETINGS………………………………………………...…………………………………8-11
+ARTICLE 9 MEETINGS……………………………………………….........…………………………………8-11
 
-Section 9.1 Applicability.……………………………………………………………………………8
+Section 9.1 Applicability.…………………………………………………………………………….....8
 
-Section 9.2 Annual Meeting of Members………………………………………………8
+Section 9.2 Annual Meeting of Members…………………………………………….....…8
 
-Section 9.3 Special Meetings of Members…………………………………………9
+Section 9.3 Special Meetings of Members………………………………….....………9
 
-Section 9.4 Regular Meetings……………………………………………………………...…10
+Section 9.4 Regular Meetings…………………………………………………………….......…10
 
-Section 9.5 Special Meetings………………………………………………………………………10
+Section 9.5 Special Meetings……………………………………………………………....…………10
 
-Section 9.6 Notice of Meetings…………………………………………………………………10
+Section 9.6 Notice of Meetings…………………………………………………………....………10
 
-                       9.6.1 Manner of Giving………………………………………………………………….…10
+                       9.6.1 Manner of Giving……………………………………10
 
-                       9.6.2 Time Requirements……………………………………………………………….…11
+                       9.6.2 Time Requirements……………………………………11
 	
-	                  9.6.3                     Notice Contents…………11
+	               9.6.3  Notice Contents………...........…11
 	
                        9.6.4  Meetings by Telephone or Similar Communication Equipment……………….11
 	
-Section 9.7	Quorum for Meetings………………………………………………………………11
+Section 9.7	Quorum for Meetings………………………………………………………….……11
 
-Section 9.8  Action without Meeting………………………………………………………11
+Section 9.8  Action without Meeting………………………………………………....………11
 
-Section 9.9 Majority Vote / Quorum Vote…………………………………………11
+Section 9.9 Majority Vote / Quorum Vote……………………………………….....…11
 
-ARTICLE 10  LIABITY OF DIRECTORS AND OFFICERS…………………………11
+ARTICLE 10  LIABITY OF DIRECTORS AND OFFICERS……………………….....…11
 
-Section 10.1 Liability…………………………………………………………………………………………11
+Section 10.1 Liability…………………………………………………………………………………….....……11
 
-ARTICLE 11 INDEMNIFICATION OF OFFICERS, EMPLOYEES ANDAGENTS………………………………………………12
+ARTICLE 11 INDEMNIFICATION OF OFFICERS, EMPLOYEES ANDAGENTS………12
 
-Section 11.1        Indemnification……………………12
+Section 11.1        Indemnification……………………...................12
 
-Section 11.2       Indemnification of Agents…………………………………………………………………………………………………12
+Section 11.2       Indemnification of Agents…………………………………………………12
 
-ARTICLE 12 RECORDS, REPORTS AND SEAL………………………………………………12-13 
+ARTICLE 12 RECORDS, REPORTS AND SEAL………………………………………….......……12-13 
 
 Section 12.1        Minute Book……………………………………………………………………………………12
 
-Section 12.2        Books and Records of Account………………………………………………………….…………………...12
+Section 12.2        Books and Records of Account……………………………………….12
 
-Section 12.3        Articles of Incorporation & Bylaws………………………………...………..………....12
+Section 12.3        Articles of Incorporation & Bylaws…………………...12
 
 Section 12.4        Annual Report and Statement of Certain Transactions………………....12
 
 Section 12.5        Member’s and Director’s Right of Inspection…………………………………………..13 
 
-Section 12.6        Seal…………………………………………………13
+Section 12.6        Seal………………………………………………….......................13
 
 ARTICLE 13 	EXECUTION OF INSTRUMENTS, DEPOSITS AND FUNDS ……………………………………………………13
 
-Section 13.1        Execution of instrument………………………………………………………………………………………………….13
+Section 13.1        Execution of instrument…………………………………………………………….13
 
-Section 13.2        Checks and Notes………………..……………………………………………………………………………………………..13
+Section 13.2        Checks and Notes………………..………………………………………………………………13
 
-Section 13.3        Deposits………………………..…………………………………………………………………………………………………………….13
+Section 13.3        Deposits………………………..……………………………………………………………………….13
 
-ARTICLE 14  	AMENDMENTS……………………………………………………………………………………………………………………………………………….14
+ARTICLE 14  	AMENDMENTS………………………………………………………………………………………………………….14
 
-Section 14.1        Amendment by Board………………………………………………………………………………………………………….……14
+Section 14.1        Amendment by Board……………………………………………………………………….……14
 
-ARTICLE 15  	INSURANCE……………………………………………………………………………………………………………………………………………………14
+ARTICLE 15  	INSURANCE…………………………………………………………………………………………………………………14
 
-Section 15.1        Insurance………………………………………….…………………………….……………………………………………………………14
+Section 15.1        Insurance………………………………………….…………………………….…………………………14
 
-CERTIFICATE OF SECRETARY………………………………………………………………………………………………………………………………………………………14
+CERTIFICATE OF SECRETARY……………………………………………………………………………………………………………………14
 
 
 
-## ARTICLE 1  NAME 
+## ARTICLE 1   NAME 
 
 ### Section 1.1	Name 
 The name of this Corporation is SuPragma Inc. (the “Corporation”). 
 
-## ARTICLE 2  OFFICES
+## ARTICLE 2   OFFICES
 
 ### Section 2.1	Principal Office
 The principal office of the Corporation is located at 903 State St., Suite 201, Santa Barbara, California 93101 or at such place as the Initial Director may from time to time determine, or as the activities of the Corporation may require.
